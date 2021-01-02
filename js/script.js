@@ -142,3 +142,4 @@ sixthQuestion();
 alert("Your Score is " + CountNum + " From 7 :)");
 alert("Welcome Bro " + YourName);
 
+//Updated in 2/1/2021
