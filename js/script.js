@@ -1,5 +1,5 @@
 'use strict';
-/*
+
 let CountNum = 0;
 var YourName = prompt("Whats your name please :)");
 CountNum++;
@@ -141,4 +141,4 @@ sixthQuestion();
 
 alert("Your Score is " + CountNum + " From 7 :)");
 alert("Welcome Bro " + YourName);
-*/
+
