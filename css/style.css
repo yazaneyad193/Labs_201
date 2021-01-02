@@ -45,6 +45,12 @@ body{
       text-decoration: none;
       color: #F1C863;
   }
+
+  .content-footer span{
+   
+    color: white;
+
+  }
     
   @media only screen and (max-width: 500px) {
       .masthead {
@@ -63,6 +69,14 @@ body{
     font-size: larger;
     color: white;
     padding-left: 50px;
+    background-color: dimgrey;
+    border: 1px solid #F1C863;
+  }
+
+
+  .whoIam ol li{
+
+    margin-bottom: 10px;
   }
 
   .topMovies{
@@ -74,6 +88,27 @@ body{
     font-style: inherit;
     
   }
+
+  .liColor {
+    margin-bottom: 10px;
+  } 
   .liColor{
     color: red;
+    margin-bottom: 10px;
+  }
+
+  .sections{
+    margin-top: 10px;
+    border: 2px solid #73A8C2;
+
+  }
+
+  .sections section  h3{
+
+    text-align: center;
+  }
+
+  #myArticle {
+    text-align: center;
+    padding: 5px;
   }

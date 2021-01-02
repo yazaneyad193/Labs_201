@@ -34,7 +34,13 @@
 
 - add a new branch ( LanaDriver-lab04)
 
+# Labs_201_Lab05B
 
+- Remove All Comments in js
+
+- Remove All Console.log() in js
+
+- Change in css
 
 ### JavaScript's 
 
